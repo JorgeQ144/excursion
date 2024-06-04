@@ -18,3 +18,10 @@
   color: aquamarine;
   text-decoration: underline;
 }
+
+/*iPhone video*/
+
+.flex-container {
+  display: flex;
+  justify-content: center;
+}
