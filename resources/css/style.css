@@ -16,4 +16,5 @@
 .header p {
   text-size:16px;
   color: aquamarine;
+  text-decoration: underline;
 }
