@@ -61,6 +61,7 @@
 
 /* footer*/
 footer {
+  color: gray;
   display: flex;
   justify-items: flex-end;
 }
