@@ -62,10 +62,9 @@
 /* footer*/
 footer {
   color: gray;
-  display: flex;
-  justify-items: flex-end;
 }
 
 footer h4 {
   color:gray;
+  align-text: right;
 }
