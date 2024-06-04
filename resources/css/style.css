@@ -25,3 +25,42 @@
   display: flex;
   justify-content: center;
 }
+
+/* Travel*/
+.travel h2 {
+  color: white;
+  font-family: Verdana;
+  font-weight: 300;
+  font-size: 42px;
+}
+
+.travel h3{
+  font-family: Verdana;
+  font-size: 21px;
+  color: gray;
+}
+
+/*Coming Soon */
+
+.flex-container img {
+  padding-top:20px;
+}
+
+.soon h2{
+  font-family: Verdana;
+  font-weight: 300;
+  font-size: 42px;
+  color: white;
+}
+
+.soon p {
+   text-size:16px;
+  color: aquamarine;
+  text-decoration: underline;
+}
+
+/* footer*/
+footer {
+  display: flex;
+  justify-items: flex-end;
+}
