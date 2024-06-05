@@ -67,5 +67,5 @@ footer {
 footer h4 {
   font-family: Verdana;
   color:gray;
-  align-text: right;
+  float: right;
 }
